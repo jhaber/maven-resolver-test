@@ -279,9 +279,9 @@ subject to the terms and conditions of the following licenses:
 
 
 
-- lib/httpclient-4.5.13.jar: org.apache.httpcomponents:httpclient:jar:4.5.13
+- lib/httpclient-4.5.14.jar: org.apache.httpcomponents:httpclient:jar:4.5.14
     Project: Apache HttpClient
-    Project URL: http://hc.apache.org/httpcomponents-client
+    Project URL: http://hc.apache.org/httpcomponents-client-ga
     License: Apache License, Version 2.0 (Apache-2.0)
     License URL: http://www.apache.org/licenses/LICENSE-2.0.txt (lib/httpclient.license)
 
