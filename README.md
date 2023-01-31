@@ -10,4 +10,4 @@ Compare the performance of:
 
 1. `apache-maven-3.8.7/bin/mvn dependency:resolve --offline`
 2. `apache-maven-3.9.0-SNAPSHOT/bin/mvn dependency:resolve --offline`
-3. `apache-maven-3.9.0-SNAPSHOT/bin/mvn dependency:resolve --offline -Daether.collector.impl=bf`
+3. `apache-maven-3.9.0-SNAPSHOT/bin/mvn dependency:resolve --offline -Daether.dependencyCollector.impl=bf`
